@@ -120,7 +120,7 @@ Wageningen University & Research
 
 ---
 
-## 📫 Cotact
+## 📫 Contact
 
 I'm interested in opportunities and collaborations involving **bioprocess engineering, industrial biotechnology, process development, process modelling and biocatalysis**.
 
